@@ -2,7 +2,7 @@
 This repository contains a basic example on how configure and use Cicero.
 
 # Setup
-This sample project is ready to use and Cicero is already installed as a dependency module.
+This sample project is ready to use and Cicero is already installed as a dependency module.<br/>
 In order to install Cicero in an existing project, please follow the below indications.
 <ul>
 	<li>Download Cicero;</li>
