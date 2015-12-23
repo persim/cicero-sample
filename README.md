@@ -7,7 +7,7 @@ In order to install Cicero in an existing project, please follow the below indic
 <ul>
 	<li>Download Cicero;</li>
 	<li>Import the dowloaded .aar file like a new module, following File > New > New Module > Import aar/jar package > select dowloaded file;</li>
-	<li>Add <code>compile project(':cicero-release')</code> as a new line into the app’s gradle file inside dependences section;</li>
+	<li>Add the folliwing lines into the app’s gradle file inside dependences section:<br><code>//Add Cicero to dependencies</code><br><code>compile project(':cicero-v1.0-release')</code><br><code>//Google Play Services is needed</code><br><code>compile 'com.google.android.gms:play-services-location:8.4.0'</code></li>
 	<li>Start using <code>CyberManager</code>'s methods inside your app code.
 </ul>
 
