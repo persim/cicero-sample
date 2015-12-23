@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cicero Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_plan">PlanActivity</string>
+    <string name="title_activity_assess_overview">Cicero Status</string>
+    <string name="assess_overview_running">Cicero is currently running in background. You can close this Activity and Cicero will continue to sense in background. To resume this Activity, you can touch the Cicero\'s Notification.</string>
+    <string name="assess_overview_stopped">Cicero is stopped.</string>
+</resources>
